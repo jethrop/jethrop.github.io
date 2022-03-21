@@ -6,3 +6,5 @@ I'm an enterprising cybersecurity proffesional with a love of hacking.  Currentl
 https://github.com/jethrop
 ## Pages
 https://jethrop.github.io/writeups/
+## LinkedIn
+https://www.linkedin.com/in/jethro-pesquera/
