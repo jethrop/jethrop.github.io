@@ -3,8 +3,8 @@
 # Hi, I'm Jethro
 I'm an enterprising cybersecurity proffesional with a love of hacking.  Currently a student at Ensign College.  The purpose of this pages site is to showcase my work and the projects I'm working on.  Please visit my github and my other pages to learn more!
 ## Github
-https://github.com/jethrop
+[https://github.com/jethrop](https://github.com/jethrop)
 ## Pages
-https://jethrop.github.io/writeups/
+[Technical Writeups](https://jethrop.github.io/writeups/)
 ## LinkedIn
-https://www.linkedin.com/in/jethro-pesquera/
+[Jethro Pesquera](https://www.linkedin.com/in/jethro-pesquera/)
